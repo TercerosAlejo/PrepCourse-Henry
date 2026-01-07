@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba del modulo 0 del PrepCourse de Henry
+Practica de los basico de Git y GitHub en Henry
